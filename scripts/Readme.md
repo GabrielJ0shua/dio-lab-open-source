@@ -1,0 +1,1 @@
+# Monstrando códigos de Designer Partterns em Python para seus projetos.
